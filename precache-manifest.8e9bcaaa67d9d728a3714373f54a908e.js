@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "048c805aa7f6b1ff68814d8d64a1f4e1",
+    "revision": "5e5dece1ecda15db3f383f82582442f4",
     "url": "/crud_contact_rizaldi/index.html"
   },
   {
-    "revision": "ea4e2cc1bc781902e86d",
+    "revision": "317374cadf2829979931",
     "url": "/crud_contact_rizaldi/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crud_contact_rizaldi/static/js/2.3284b672.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ea4e2cc1bc781902e86d",
-    "url": "/crud_contact_rizaldi/static/js/main.d94a458f.chunk.js"
+    "revision": "317374cadf2829979931",
+    "url": "/crud_contact_rizaldi/static/js/main.d2d570f5.chunk.js"
   },
   {
     "revision": "36db8e75db59b4a56b97",
