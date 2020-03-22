@@ -11,7 +11,7 @@ import Create from "./Container/Create";
 class App extends React.Component {
   render() {
     return (
-      <Router>
+      <Router basename={`${process.env.PUBLIC_URL}/`}>
           <Switch>
             <Route component={Create} exact path="/create" />
             <Route component={Create} exact path="/edit" />
