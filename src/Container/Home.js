@@ -102,9 +102,11 @@ class Home extends Component {
 
         return (
             <div style={{ width: "100%" }}>
+                Current Query String : {this.props.location.search}
                 <FlexView grow column hAlignContent="center" style={{ marginTop: 20 }}>
                     <FlexView>
                         <button onClick={() => this.props.history.push('/create')} style={{ borderWidth: 0, padding: 30, paddingTop: 10, paddingBottom: 10, borderRadius: 30, cursor: "pointer" }}>Create</button>
+                        <button onClick={() => this.props.history.push('/?q=' + +new Date)} style={{ marginLeft: 10, borderWidth: 0, padding: 30, paddingTop: 10, paddingBottom: 10, borderRadius: 30, cursor: "pointer" }}>Add Query Param</button>
                     </FlexView>
                     <FlexView grow style={{ width: '80%', marginTop: 20 }}>
                         <MuiThemeProvider theme={getMuiTheme()}>
