@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/crud_contact_rizaldi/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/crud_contact_rizaldi/static/js/main.d2d570f5.chunk.js",
-    "main.js.map": "/crud_contact_rizaldi/static/js/main.d2d570f5.chunk.js.map",
+    "main.css": "/crud_contact_rizaldi/static/css/main.69eda509.chunk.css",
+    "main.js": "/crud_contact_rizaldi/static/js/main.30d9a3e6.chunk.js",
+    "main.js.map": "/crud_contact_rizaldi/static/js/main.30d9a3e6.chunk.js.map",
     "runtime-main.js": "/crud_contact_rizaldi/static/js/runtime-main.7734ccec.js",
     "runtime-main.js.map": "/crud_contact_rizaldi/static/js/runtime-main.7734ccec.js.map",
     "static/js/2.3284b672.chunk.js": "/crud_contact_rizaldi/static/js/2.3284b672.chunk.js",
     "static/js/2.3284b672.chunk.js.map": "/crud_contact_rizaldi/static/js/2.3284b672.chunk.js.map",
     "index.html": "/crud_contact_rizaldi/index.html",
-    "precache-manifest.8e9bcaaa67d9d728a3714373f54a908e.js": "/crud_contact_rizaldi/precache-manifest.8e9bcaaa67d9d728a3714373f54a908e.js",
+    "precache-manifest.19fa6313a49a0330407b001715b6c2c5.js": "/crud_contact_rizaldi/precache-manifest.19fa6313a49a0330407b001715b6c2c5.js",
     "service-worker.js": "/crud_contact_rizaldi/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/crud_contact_rizaldi/static/css/main.5ecd60fb.chunk.css.map",
+    "static/css/main.69eda509.chunk.css.map": "/crud_contact_rizaldi/static/css/main.69eda509.chunk.css.map",
     "static/js/2.3284b672.chunk.js.LICENSE.txt": "/crud_contact_rizaldi/static/js/2.3284b672.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7734ccec.js",
     "static/js/2.3284b672.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.d2d570f5.chunk.js"
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.30d9a3e6.chunk.js"
   ]
 }
